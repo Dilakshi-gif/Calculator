@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PDSA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PDSA/dist/PDSA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
